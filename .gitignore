@@ -1,0 +1,13 @@
+# Local OS/editor files
+desktop.ini
+Thumbs.db
+~$*
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.cache
+
+# Notebook/runtime caches
+.ipynb_checkpoints/
+.pytest_cache/

@@ -1,0 +1,14 @@
+"""
+2022110616杨钰桁
+"""
+
+
+train: C:\Users\yangy\Desktop\paper\biyesheji\yolov11\train_test_split111\images\train  # train images
+val: C:\Users\yangy\Desktop\paper\biyesheji\yolov11\train_test_split111\images\val  # val images
+test: C:\Users\yangy\Desktop\paper\biyesheji\yolov11\train_test_split111\images\test #test images
+
+
+nc: 1
+
+# class names
+names: ['water inlet']

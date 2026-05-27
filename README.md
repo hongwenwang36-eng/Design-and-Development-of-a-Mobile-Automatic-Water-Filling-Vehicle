@@ -1,2 +1,11 @@
-# Design-and-Development-of-a-Mobile-Automatic-Water-Filling-Vehicle
+# Design and Development of a Mobile Automatic Water Filling Vehicle
+
 面向列车补水场景的移动式自动注水系统设计与研究
+
+## 目录结构
+
+- `参考文献/`：列车上水、移动机器人、视觉识别、控制算法等相关论文和资料。
+- `控制系统/`：ADAMS-Simulink 联合仿真、YOLOv11 识别程序、数据集和仿真数据图。
+- `硬件手册/`：控制器、水泵、传感器、电源模块等硬件选型与说明资料。
+- `结构设计/`：三维模型、注水对接机构、驱动底盘和工程图纸。
+- `设计说明书/`：项目设计说明书 PDF。
